@@ -44,7 +44,7 @@ layers:
   - V
   - B
   - MUTE
-  - EP OFF
+  - ''
   - N
   - M
   - ','
@@ -166,7 +166,7 @@ layers:
   - PASTE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - EP ON
+  - EP TOG
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
