@@ -12,7 +12,7 @@ layers:
   - '8'
   - '9'
   - '0'
-  - {t: ▽, type: trans}
+  - BACKSPACE
   - TAB
   - Q
   - W
@@ -24,7 +24,7 @@ layers:
   - I
   - O
   - P
-  - {t: ▽, type: trans}
+  - ENTER
   - LEFT SHIFT
   - A
   - S
@@ -36,7 +36,7 @@ layers:
   - K
   - L
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - RIGHT SHIFT
   - LEFT CONTROL
   - Z
   - X
@@ -49,8 +49,8 @@ layers:
   - M
   - ','
   - .
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - /
+  - RIGHT CONTROL
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
