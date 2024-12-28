@@ -84,7 +84,7 @@
             //                |      |       |       |      |      |  |      |      |      |       |      |
 
             bindings = <
-&bt BT_CLR  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                                     &trans     &trans         &trans    &trans     &trans  &trans
+&bt BT_CLR  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                                     &trans     &trans         &trans    &trans     &trans  &sys_reset
 &trans      &kp INS       &kp PSCRN     &kp K_CMENU   &trans        &trans                                           &kp PG_UP  &trans         &kp UP    &trans     &none   &trans
 &trans      &kp LALT      &none         &none         &trans        &kp CLCK                                         &kp PG_DN  &kp LEFT       &kp DOWN  &kp RIGHT  &none   &none
 &trans      &kp K_UNDO    &kp K_CUT     &kp K_COPY    &kp K_PASTE   &trans        &trans           &ext_power EP_ON  &trans     &trans         &trans    &trans     &trans  &trans
