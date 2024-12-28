@@ -53,12 +53,12 @@ layers:
   - RIGHT CONTROL
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LEFT WIN
   - lower
   - SPACE
   - ENTER
   - raise
-  - {t: ▽, type: trans}
+  - LEFT ALT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   lower:
@@ -118,7 +118,7 @@ layers:
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {t: raise, h: toggle}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -176,11 +176,11 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - LEFT WIN
+  - {t: lower, h: toggle}
   - BACKSPACE
   - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
+  - RIGHT ALT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   adjust:
